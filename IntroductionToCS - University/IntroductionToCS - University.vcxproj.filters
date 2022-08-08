@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Exercises PDF">
+      <UniqueIdentifier>{b290ce47-be1b-4bca-a8a3-b09ebc5aed49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ex6 - extracting data from files and manipulate it">
+      <UniqueIdentifier>{38ed3d51-a1ef-4c8f-bae0-196330173485}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="\\Mac\Home\Downloads\2022 תרגיל 1 מבוא למדמח תשפב.pdf">
+      <Filter>Exercises PDF</Filter>
+    </None>
+    <None Include="\\Mac\Home\Downloads\2022 תרגיל 6 מבוא למדמח תשפב.pdf">
+      <Filter>Exercises PDF</Filter>
+    </None>
+    <None Include="\\Mac\Home\Downloads\2022 תרגיל 5 מבוא למדמח תשפב.pdf">
+      <Filter>Exercises PDF</Filter>
+    </None>
+    <None Include="\\Mac\Home\Downloads\2022 תרגיל 4 מבוא למדמח תשפב.pdf">
+      <Filter>Exercises PDF</Filter>
+    </None>
+    <None Include="\\Mac\Home\Downloads\2022 תרגיל 3 מבוא למדמח תשפב.pdf">
+      <Filter>Exercises PDF</Filter>
+    </None>
+    <None Include="\\Mac\Home\Downloads\2022 תרגיל 2 מבוא למדמח תשפב.pdf">
+      <Filter>Exercises PDF</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ex1 - Intro.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ex2 - converting bases, printing shapes using neted loops, etc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ex3 - printing prime nums, implementing Goldbach%27s conjecture, printing Lychrel Numbers, implemeting LIS algorithm - longest increasing subsequence.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ex4 - implementing hangman game.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ex 5 - implementing Dynamic dictionary on the heap, with unlimited languges and words.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Exercises\Exercise 6\ex_6.c">
+      <Filter>Source Files\ex6 - extracting data from files and manipulate it</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Exercises\Exercise 6\person.c">
+      <Filter>Source Files\ex6 - extracting data from files and manipulate it</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Exercises\Exercise 6\sorting.c">
+      <Filter>Source Files\ex6 - extracting data from files and manipulate it</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Exercises\Exercise 6\person.h">
+      <Filter>Source Files\ex6 - extracting data from files and manipulate it</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Exercises\Exercise 6\sorting.h">
+      <Filter>Source Files\ex6 - extracting data from files and manipulate it</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\Exercises\Exercise 6\persons.txt">
+      <Filter>Source Files\ex6 - extracting data from files and manipulate it</Filter>
+    </Text>
+    <Text Include="..\..\Exercises\Exercise 6\sorted.txt">
+      <Filter>Source Files\ex6 - extracting data from files and manipulate it</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
