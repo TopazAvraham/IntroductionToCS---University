@@ -38,12 +38,12 @@ List** updateArrayOfLists(const int*, List**, int*);
 void searchWordInDictionary(Dictionary*, int*, List**);
 char** findValueRec(List*, char*);
 char** findValueHelper(Word*, char*);
-void deleteWordInDictionary(Dictionary*, int*, List**);//מוחק מילה + קורא לפונציה שמוחקת את כל התרגומים
-void removeWordWithTranslationsFromList(List*, char**, int);//מוחק את כל התרגומים
-Dictionary* deleteDictionary(Dictionary*, int*, List**);//מחיקת מילון
-void freeListRec(List*, int);//שחרור כל הרשימה
-void freeListHelper(Word*, List*, int);//שחרור כל איבר ברשימה
-void freeWordTranslations(char**, int);//שחרור כל התרגומים של איבר ברשימה
+void deleteWordInDictionary(Dictionary*, int*, List**);
+void removeWordWithTranslationsFromList(List*, char**, int);
+Dictionary* deleteDictionary(Dictionary*, int*, List**);
+void freeListRec(List*, int);
+void freeListHelper(Word*, List*, int);
+void freeWordTranslations(char**, int);
 void deleteAllDictionaries(Dictionary*, int*, List**);
 Dictionary* deleteSpecificDictionary(Dictionary*, int*, List**);
 
