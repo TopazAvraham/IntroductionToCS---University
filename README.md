@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img width="800" height="350" src="https://ibb.co/0h9GpQm">
+  <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/3.png?raw=true">
 </p>
 
 
