@@ -1,8 +1,5 @@
 <h4 align="center">
 
-
-![](Images/20.png)
-
 </h4>
 
 <h4 align="center">Let's make Israeli people's lives better - MLB community</h4>
@@ -17,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img width="600" height="400" src="https://i.ibb.co/Y0xj58R/12.png">
+  <img width="800" height="350" src="https://i.ibb.co/Y0xj58R/12.png">
 </p>
 
 
