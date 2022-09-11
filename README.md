@@ -13,10 +13,6 @@
 
 </p>
 
-
-<p align="center">
-  <b>HomePage</b>
-</p>
 <p align="center">
   <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/11.png?raw=true">
 </p>
@@ -33,6 +29,8 @@
 
 
 ## Screenshots
+<br>
+
 <p align="left">
   <b> Sign up Page </b>
 </p>
@@ -40,6 +38,7 @@
   <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/1.png?raw=true">
 </p>
 
+<br>
 
 <p align="left">
   <b> Login Page </b>
@@ -47,6 +46,7 @@
 <p align="left">
   <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/2.png?raw=true">
 </p>
+<br>
 
 
 <p align="left">
@@ -55,6 +55,7 @@
 <p align="left">
   <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/3.png?raw=true">
 </p>
+<br>
 
 <p align="left">
   <b> My volunteering approvals page </b>
@@ -63,6 +64,7 @@
   <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/6.png?raw=true">
 </p>
 
+<br>
 
 <p align="left">
   <b> My coupons page </b>
@@ -70,7 +72,7 @@
 <p align="left">
   <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/5.png?raw=true">
 </p>
-
+<br>
 
 <p align="left">
   <b> Admin View User's Approvals page  </b>
@@ -78,6 +80,7 @@
 <p align="left">
   <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/8.png?raw=true">
 </p>
+<br>
 
 
 <p align="left">
@@ -86,6 +89,7 @@
 <p align="left">
   <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/9.png?raw=true">
 </p>
+<br>
 
 
 <p align="left">
@@ -94,6 +98,7 @@
 <p align="left">
   <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/10.png?raw=true">
 </p>
+<br>
 
 
 <p align="left">
