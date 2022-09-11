@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img width="800" height="350" src="https://i.ibb.co/Y0xj58R/12.png">
+  <img width="800" height="350" src="https://ibb.co/0h9GpQm">
 </p>
 
 
@@ -29,29 +29,50 @@
 
 
 ## Screenshots
+<p align="left">
+  <b> Sign up Page </b>
+</p>
+<p align="left">
+  <img width="800" height="350" src="https://i.ibb.co/Y0xj58R/12.png">
+</p>
+
 
 <p align="left">
-  <img width="600" height="600" src="https://i.ibb.co/Y0xj58R/12.png">
+  <b> Login Page </b>
+</p>
+<p align="left">
+  <img width="800" height="350" src="https://ibb.co/858pt92">
+</p>
+
+
+<p align="left">
+  <b> Find volunteering options page </b>
+</p>
+<p align="left">
+  <img width="800" height="350" src="https://ibb.co/BPp0Twt">
 </p>
 
 <p align="left">
-  <img width="600" height="400" src="Images/16.png">
+  <b> My volunteering approvals page </b>
+</p>
+<p align="left">
+  <img width="800" height="350" src="https://ibb.co/Wy5yD7n">
 </p>
 
-<p align="left">
-  <img width="600" height="600" src="Images/3.png">
-</p>
 
 <p align="left">
-  <img width="600" height="600" src="Images/6.png">
+  <b> My coupons page </b>
+</p>
+<p align="left">
+  <img width="800" height="350" src="https://ibb.co/fXXx74r">
 </p>
 
-<p align="left">
-  <img width="600" height="600" src="Images/4.png">
-</p>
 
 <p align="left">
-  <img width="600" height="600" src="Images/5.png">
+  <b> Admin View User's Approvals page  </b>
+</p>
+<p align="left">
+  <img width="800" height="350" src="https://ibb.co/DYZ7cPP">
 </p>
 
 
