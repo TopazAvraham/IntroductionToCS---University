@@ -13,8 +13,12 @@
 
 </p>
 
+
 <p align="center">
-  <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/3.png?raw=true">
+  <b>HomePage</b>
+</p>
+<p align="center">
+  <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/11.png?raw=true">
 </p>
 
 
@@ -33,7 +37,7 @@
   <b> Sign up Page </b>
 </p>
 <p align="left">
-  <img width="800" height="350" src="https://i.ibb.co/Y0xj58R/12.png">
+  <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/1.png?raw=true">
 </p>
 
 
@@ -41,7 +45,7 @@
   <b> Login Page </b>
 </p>
 <p align="left">
-  <img width="800" height="350" src="Screenshots/3">
+  <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/2.png?raw=true">
 </p>
 
 
@@ -49,14 +53,14 @@
   <b> Find volunteering options page </b>
 </p>
 <p align="left">
-  <img width="800" height="350" src="https://ibb.co/BPp0Twt">
+  <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/3.png?raw=true">
 </p>
 
 <p align="left">
   <b> My volunteering approvals page </b>
 </p>
 <p align="left">
-  <img width="800" height="350" src="https://ibb.co/Wy5yD7n">
+  <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/6.png?raw=true">
 </p>
 
 
@@ -64,7 +68,7 @@
   <b> My coupons page </b>
 </p>
 <p align="left">
-  <img width="800" height="350" src="https://ibb.co/fXXx74r">
+  <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/5.png?raw=true">
 </p>
 
 
@@ -72,7 +76,31 @@
   <b> Admin View User's Approvals page  </b>
 </p>
 <p align="left">
-  <img width="800" height="350" src="https://ibb.co/DYZ7cPP">
+  <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/8.png?raw=true">
+</p>
+
+
+<p align="left">
+  <b> Admin View existing volunteering options page  </b>
+</p>
+<p align="left">
+  <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/9.png?raw=true">
+</p>
+
+
+<p align="left">
+  <b> Admin View new volunteering requests page  </b>
+</p>
+<p align="left">
+  <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/10.png?raw=true">
+</p>
+
+
+<p align="left">
+  <b> About page  </b>
+</p>
+<p align="left">
+  <img width="800" height="350" src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/7.png?raw=true">
 </p>
 
 
