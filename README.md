@@ -33,7 +33,7 @@ Personal Project outside of classroom. The website was built using Python-Django
   
 The concept of the website is: volunteer, get coins as a rewards for each volunteering, and use the coins to get cool prizes.
 </b>
-
+<br>
 ## Screenshots
 <br>
 
