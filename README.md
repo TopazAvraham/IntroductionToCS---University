@@ -28,9 +28,9 @@
 <b>
 Personal Project outside of classroom. The website was built using Python-Django, HTML, CSS, SQLite3 & Postgresql Databases, AWS S3 bucket media hosting.
 2 people's mutual project using GitHub & Git branches.
-  
+  </b>
 <br><br>
-  
+  <b>
 The concept of the website is: volunteer, get coins as a rewards for each volunteering, and use the coins to get cool prizes.
 </b>
 <br>
