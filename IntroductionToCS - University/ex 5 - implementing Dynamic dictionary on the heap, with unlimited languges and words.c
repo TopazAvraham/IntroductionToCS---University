@@ -1,8 +1,4 @@
-﻿/*********************
-* Topaz Avraham
-* 206842627
-* ex_5
-*********************/
+
 
 #include <stdio.h>
 #include <string.h>
